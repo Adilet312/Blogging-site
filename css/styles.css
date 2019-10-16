@@ -1,0 +1,17 @@
+body {
+  background-color: azure
+}
+
+.post
+{
+  background-color: DarkSeaGreen;
+  font-family: cursive;
+  font-size: 20px;
+}
+.about
+{
+  background-color: LightSeaGreen;
+  font-size: 30px;
+  font-family:"Times New Roman";
+  text-align: justify;
+}
